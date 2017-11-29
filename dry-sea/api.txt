@@ -1,0 +1,2 @@
+https://api.onwater.io/api/v1/results/[latitude],[longitude]
+
